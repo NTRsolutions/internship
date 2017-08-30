@@ -1,0 +1,14 @@
+#Fix Rewrite
+
+<IfModule mod_rewrite.c>
+Options -Multiviews
+# For security reasons, Option followsymlinks cannot be overridden.
+#Options +FollowSymLinks
+Options +SymLinksIfOwnerMatch
+RewriteEngine on
+#RewriteBase /
+#RewriteRule ^([^\/]*)\.htm$ pages?pagename=$1  [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php?/$1 [QSA,L]
+</IfModule>

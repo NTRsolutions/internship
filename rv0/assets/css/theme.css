@@ -1,0 +1,155 @@
+/* blue theme styles */
+/* backgound css */
+body.blue .btn-info, body.blue .navbar-default, body.blue .ban-post a, body.blue .member-count:before,  body.blue .tabbing-container .nav-pills > li.active, body.blue .tabbing-container .nav-pills > li.active, body.blue .tabbing-container .nav-pills > li.active, body.blue .tabbing-container .nav-pills li:hover, body.blue .activity-content .btn-primary.active, body.blue .activity-content .btn-primary:active, body.blue .activity-content .open > .dropdown-toggle.btn-primary, body.blue .members-search .button,  body.blue .box-title, body.blue .label-info, body.blue .contact-form button, body.blue .profile-container .nav-pills > li.active > a, body.blue .profile-container .nav-pills > li.active > a:focus, body.blue .profile-container .nav-pills > li.active > a:hover, body.blue .profile-buttons .sharepic a, body.blue .profile-buttons .fblogin a, body.blue .jFiler-input-choose-btn.blue:hover, body.blue .latestAct-widget .submit-button:hover, body.blue .showin:hover:before, body.blue .crop-design-main a, body.blue .select2-results .select2-highlighted, body.blue .events-page .fc-event, body.blue .group-container .add-btn, body.blue .group-search .button, body.blue .model-container .modal-footer .add-btn {
+	background: #f8b239;
+}
+
+body.blue .events-page .ui-state-default, body.blue .events-page .ui-widget-content .ui-state-default, body.blue .events-page .ui-widget-header .ui-state-default, body.blue .events-page .ui-widget-header{background: #2d3e50;}
+
+/* background hover active styles */
+body.blue .btn-info:hover, body.blue .btn-primary:hover, body.blue .btn-default:hover, body.blue .profile-buttons .sharepic a:hover, body.blue .profile-buttons .fblogin a:hover, body.blue .ban-post a:hover, body.blue #timelineBackground, body.blue .crop-design-main a:hover, body.blue .events-page .fc-event:hover, body.blue .group-container .add-btn:hover, body.blue .group-search .button:hover, body.blue .model-container .modal-footer .add-btn:hover, body.blue .img-container .choose-photo a:hover {
+	background: #ffa200;
+}
+/* border css */
+body.blue .main-content .widgettitle, body.blue .members-search .button, body.blue .btn-info, body.blue .box-body .btn-primary, body.blue .jFiler-input-choose-btn.blue:hover, body.blue .latestAct-widget .submit-button:hover, body.blue .box-body .nav.nav-pills.nav-stacked > li.active > a, body.blue .box-body .nav.nav-pills.nav-stacked > li.active > a:hover,  body.blue .showin:hover, body.blue h5.educational-heading {
+	border-color: #f8b239;
+}
+
+body.blue .events-page .ui-state-default, body.blue .events-page .ui-widget-content .ui-state-default, body.blue .events-page .ui-widget-header .ui-state-default {border-color: #2d3e50;}
+/* border hover css */
+body.blue .btn-info:hover, body.blue .search-image-container .showin:hover, body.blue .search-image-container .showin:hover .search-img {
+	border-color: #ffa200;
+}
+/* color css */
+body.blue .school-news .postings a, body.blue .activity-list .list-group-item.load-more a, body.blue .login-container #helpBlock, body.blue .loader-icon i, body.blue .activity-list .list-group-item .loader-btn, body.blue .navbar-default .navbar-nav .loader-btn i, body.blue #closemap, body.blue #connection_details table tr td span, body.blue .isedit-setting .dropdown-menu li a, body.blue .pagination > li > a, body.blue h5.educational-heading, body.blue .jquery-comments .highlight-font-bold, body.blue .comments-modal .modal-header span {
+	color: #f8b239;
+}
+/* color hover css */
+ body.blue .school-news .postings a:hover, body.blue .activity-list .list-group-item.load-more a:hover, body.blue #closemap:hover, body.blue .isedit-setting .dropdown-menu li a:hover, body.blue .pagination > li > a:hover {
+	color: #ffa200;
+}
+/* red theme styles */
+/* backgound css */
+body.red .btn-info, body.red .navbar-default, body.red .ban-post a, body.red .member-count:before, body.red .notifi-count .badge, body.red .latestAct-widget .widget-heading, body.red .members-directory .members-count, body.red .tabbing-container .nav-pills > li.active, body.red .tabbing-container .nav-pills > li.active, body.red .tabbing-container .nav-pills > li.active, body.red .tabbing-container .nav-pills li:hover, body.red .activity-content .btn-primary.active, body.red .activity-content .btn-primary:active, body.red .activity-content .open > .dropdown-toggle.btn-primary, body.red .members-search .button, body.red .events-page .ui-state-default, body.red .events-page .ui-widget-content .ui-state-default, body.red .events-page .ui-widget-header .ui-state-default, body.red .events-page .ui-widget-header, body.red .box-title, body.red .label-info, body.red .contact-form button, body.red .profile-container .nav-pills > li.active > a, body.red .profile-buttons .sharepic a, body.red .profile-buttons .fblogin a, body.red .jFiler-input-choose-btn.red:hover, body.red .latestAct-widget .submit-button:hover, body.red .btn-primary, body.red .jFiler-input-choose-btn.blue:hover, body.red .showin:hover:before, body.red .crop-design-main a, body.red .select2-results .select2-highlighted, body.red .events-page .fc-event, body.red .group-container .add-btn, body.red .group-search .button, body.red .model-container .modal-footer .add-btn, body.red .user-dropdown.open ul {
+	background: #fe4365;
+}
+/* background hover active styles */
+body.red .btn-info:hover, body.red .btn-primary:hover, body.red .btn-default:hover, body.red .profile-buttons .sharepic a:hover, body.red .profile-buttons .fblogin a:hover, body.red .ban-post a:hover, body.red #timelineBackground, body.red .crop-design-main a:hover, body.red .events-page .fc-event:hover, body.red .group-container .add-btn:hover, body.red .group-search .button:hover, body.red .model-container .modal-footer .add-btn:hover, body.red .img-container .choose-photo a:hover {
+	background: #ff002e;
+}
+/* border css */
+body.red .main-content .widgettitle, body.red .members-search .button, body.red .btn-info, body.red .box-body .btn-primary, body.red .jFiler-input-choose-btn.red:hover, body.red .latestAct-widget .submit-button:hover, body.red .box-body .nav.nav-pills.nav-stacked > li.active > a, body.red .box-body .nav.nav-pills.nav-stacked > li.active > a:hover, body.red .jFiler-input-choose-btn.blue:hover, body.red .events-page .ui-state-default, body.red .events-page .ui-widget-content .ui-state-default, body.red .events-page .ui-widget-header .ui-state-default, body.red .showin:hover, body.red h5.educational-heading {
+	border-color: #fe4365;
+}
+/* border hover css */
+body.red .btn-info:hover, body.red .btn-info, body.red .search-image-container .showin:hover, body.red .search-image-container .showin:hover .search-img {
+	border-color: #ff002e;
+}
+/* color css */
+body.red a, body.red .school-news .postings a, body.red .activity-list .list-group-item.load-more a, body.red .login-container #helpBlock, body.red .loader-icon i, body.red .activity-list .list-group-item .loader-btn, body.red .navbar-default .navbar-nav .loader-btn i, body.red #closemap, body.red #connection_details table tr td span, body.red .isedit-setting .dropdown-menu li a, body.red .name-color, body.red .pagination > li > a, body.red h5.educational-heading, body.red .jquery-comments .highlight-font-bold, body.red .comments-modal .modal-header span {
+	color: #fe4365;
+}
+/* color hover css */
+body.red a:hover, body.red .school-news .postings a:hover, body.red .activity-list .list-group-item.load-more a:hover, body.red #closemap:hover, body.red .isedit-setting .dropdown-menu li a:hover, body.red .pagination > li > a:hover {
+	color: #ff002e;
+}
+/* yellow theme styles */
+/* backgound css */
+body.yellow .btn-info, body.yellow .navbar-default, body.yellow .ban-post a, body.yellow .member-count:before, body.yellow .notifi-count .badge, body.yellow .latestAct-widget .widget-heading, body.yellow .members-directory .members-count, body.yellow .tabbing-container .nav-pills > li.active, body.yellow .tabbing-container .nav-pills > li.active, body.yellow .tabbing-container .nav-pills > li.active, body.yellow .tabbing-container .nav-pills li:hover, body.yellow .activity-content .btn-primary.active, body.yellow .activity-content .btn-primary:active, body.yellow .activity-content .open > .dropdown-toggle.btn-primary, body.yellow .members-search .button, body.yellow .events-page .ui-state-default, body.yellow .events-page .ui-widget-content .ui-state-default, body.yellow .events-page .ui-widget-header .ui-state-default, body.yellow .events-page .ui-widget-header, body.yellow .box-title, body.yellow .label-info, body.yellow .contact-form button, body.yellow .profile-container .nav-pills > li.active > a, body.yellow .profile-buttons .sharepic a, body.yellow .profile-buttons .fblogin a, body.yellow .jFiler-input-choose-btn.yellow:hover, body.yellow .latestAct-widget .submit-button:hover, body.yellow .btn-primary, body.yellow .jFiler-input-choose-btn.blue:hover, body.yellow .showin:hover:before, body.yellow .crop-design-main a, body.yellow .select2-results .select2-highlighted, body.yellow .events-page .fc-event, body.yellow .group-container .add-btn, body.yellow .group-search .button, body.yellow .model-container .modal-footer .add-btn, body.yellow .user-dropdown.open ul {
+	background: #fbb829 !important;
+}
+/* background hover active styles */
+body.yellow .btn-info:hover, body.yellow .btn-primary:hover, body.yellow .btn-default:hover, body.yellow .profile-buttons .sharepic a:hover, body.yellow .profile-buttons .fblogin a:hover, body.yellow .ban-post a:hover, body.yellow #timelineBackground, body.yellow .crop-design-main a:hover, body.yellow .events-page .fc-event:hover, body.yellow .group-container .add-btn:hover, body.yellow .group-search .button:hover, body.yellow .model-container .modal-footer .add-btn:hover, body.yellow .img-container .choose-photo a:hover {
+	background: #ffae00 !important;
+}
+/* border css */
+body.yellow .main-content .widgettitle, body.yellow .members-search .button, body.yellow .btn-info, body.yellow .box-body .btn-primary, body.yellow .jFiler-input-choose-btn.yellow:hover, body.yellow .latestAct-widget .submit-button:hover, body.yellow .box-body .nav.nav-pills.nav-stacked > li.active > a, body.yellow .box-body .nav.nav-pills.nav-stacked > li.active > a:hover, body.yellow .jFiler-input-choose-btn.blue:hover, body.yellow .events-page .ui-state-default, body.yellow .events-page .ui-widget-content .ui-state-default, body.yellow .events-page .ui-widget-header .ui-state-default, body.yellow .showin:hover, body.yellow h5.educational-heading {
+	border-color: #fbb829 !important;
+}
+/* border hover css */
+body.yellow .btn-info:hover, body.yellow .btn-info, body.yellow .search-image-container .showin:hover, body.yellow .search-image-container .showin:hover .search-img {
+	border-color: #ffae00;
+}
+/* color css */
+body.yellow a, body.yellow .school-news .postings a, body.yellow .activity-list .list-group-item.load-more a, body.yellow .login-container #helpBlock, body.yellow .loader-icon i, body.yellow .activity-list .list-group-item .loader-btn, body.yellow .navbar-default .navbar-nav .loader-btn i, body.yellow #closemap, body.yellow #connection_details table tr td span, body.yellow .isedit-setting .dropdown-menu li a, body.yellow .name-color, body.yellow .pagination > li > a, body.yellow h5.educational-heading, body.yellow .jquery-comments .highlight-font-bold, body.yellow .comments-modal .modal-header span {
+	color: #ecac24;
+}
+/* color hover css */
+body.yellow a:hover, body.yellow .school-news .postings a:hover, body.yellow .activity-list .list-group-item.load-more a:hover, body.yellow #closemap:hover, body.yellow .isedit-setting .dropdown-menu li a:hover, body.yellow .pagination > li > a:hover {
+	color: #ffae00;
+}
+/* orange theme styles */
+/* backgound css */
+body.orange .btn-info, body.orange .navbar-default, body.orange .ban-post a, body.orange .member-count:before, body.orange .notifi-count .badge, body.orange .latestAct-widget .widget-heading, body.orange .members-directory .members-count, body.orange .tabbing-container .nav-pills > li.active, body.orange .tabbing-container .nav-pills > li.active, body.orange .tabbing-container .nav-pills > li.active, body.orange .tabbing-container .nav-pills li:hover, body.orange .activity-content .btn-primary.active, body.orange .activity-content .btn-primary:active, body.orange .activity-content .open > .dropdown-toggle.btn-primary, body.orange .members-search .button, body.orange .events-page .ui-state-default, body.orange .events-page .ui-widget-content .ui-state-default, body.orange .events-page .ui-widget-header .ui-state-default, body.orange .events-page .ui-widget-header, body.orange .box-title, body.orange .label-info, body.orange .contact-form button, body.orange .profile-container .nav-pills > li.active > a, body.orange .profile-buttons .sharepic a, body.orange .profile-buttons .fblogin a, body.orange .jFiler-input-choose-btn.orange:hover, body.orange .latestAct-widget .submit-button:hover, body.orange .btn-primary, body.orange .jFiler-input-choose-btn.blue:hover, body.orange .showin:hover:before, body.orange .crop-design-main a, body.orange .select2-results .select2-highlighted, body.orange .events-page .fc-event, body.orange .group-container .add-btn, body.orange .group-search .button, body.orange .model-container .modal-footer .add-btn, body.orange .user-dropdown.open ul {
+	background: #f86e4e !important;
+}
+/* background hover active styles */
+body.orange .btn-info:hover, body.orange .btn-primary:hover, body.orange .btn-default:hover, body.orange .profile-buttons .sharepic a:hover, body.orange .profile-buttons .fblogin a:hover, body.orange .ban-post a:hover, body.orange #timelineBackground, body.orange .crop-design-main a:hover, body.orange .events-page .fc-event:hover, body.orange .group-container .add-btn:hover, body.orange .group-search .button:hover, body.orange .model-container .modal-footer .add-btn:hover, body.orange .img-container .choose-photo a:hover {
+	background: #f92f00!important;
+}
+/* border css */
+body.orange .main-content .widgettitle, body.orange .members-search .button, body.orange .btn-info, body.orange .box-body .btn-primary, body.orange .jFiler-input-choose-btn.orange:hover, body.orange .latestAct-widget .submit-button:hover, body.orange .box-body .nav.nav-pills.nav-stacked > li.active > a, body.orange .box-body .nav.nav-pills.nav-stacked > li.active > a:hover, body.orange .jFiler-input-choose-btn.blue:hover, body.orange .events-page .ui-state-default, body.orange .events-page .ui-widget-content .ui-state-default, body.orange .events-page .ui-widget-header .ui-state-default, body.orange .showin:hover, body.orange h5.educational-heading {
+	border-color: #f86e4e !important;
+}
+/* border hover css */
+body.orange .btn-info:hover, body.orange .btn-info, body.orange .search-image-container .showin:hover, body.orange .search-image-container .showin:hover .search-img {
+	border-color: #f92f00;
+}
+/* color css */
+body.orange a, body.orange .school-news .postings a, body.orange .activity-list .list-group-item.load-more a, body.orange .login-container #helpBlock, body.orange .loader-icon i, body.orange .activity-list .list-group-item .loader-btn, body.orange .navbar-default .navbar-nav .loader-btn i, body.orange #closemap, body.orange #connection_details table tr td span, body.orange .isedit-setting .dropdown-menu li a, body.orange .name-color, body.orange .pagination > li > a, body.orange h5.educational-heading, body.orange .jquery-comments .highlight-font-bold, body.orange .comments-modal .modal-header span {
+	color: #f86e4e;
+}
+/* color hover css */
+body.orange a:hover, body.orange .school-news .postings a:hover, body.orange .activity-list .list-group-item.load-more a:hover, body.orange #closemap:hover, body.orange .isedit-setting .dropdown-menu li a:hover, body.orange .pagination > li > a:hover {
+	color: #f92f00;
+}
+/* green theme styles */
+/* backgound css */
+body.green .btn-info, body.green .navbar-default, body.green .ban-post a, body.green .member-count:before, body.green .notifi-count .badge, body.green .latestAct-widget .widget-heading, body.green .members-directory .members-count, body.green .tabbing-container .nav-pills > li.active, body.green .tabbing-container .nav-pills > li.active, body.green .tabbing-container .nav-pills > li.active, body.green .tabbing-container .nav-pills li:hover, body.green .activity-content .btn-primary.active, body.green .activity-content .btn-primary:active, body.green .activity-content .open > .dropdown-toggle.btn-primary, body.green .members-search .button, body.green .events-page .ui-state-default, body.green .events-page .ui-widget-content .ui-state-default, body.green .events-page .ui-widget-header .ui-state-default, body.green .events-page .ui-widget-header, body.green .box-title, body.green .label-info, body.green .contact-form button, body.green .profile-container .nav-pills > li.active > a, body.green .profile-buttons .sharepic a, body.green .profile-buttons .fblogin a, body.green .jFiler-input-choose-btn.green:hover, body.green .latestAct-widget .submit-button:hover, body.green .btn-primary, body.green .jFiler-input-choose-btn.blue:hover, body.green .showin:hover:before, body.green .crop-design-main a, body.green .select2-results .select2-highlighted, body.green .events-page .fc-event, body.green .group-container .add-btn, body.green .group-search .button, body.green .model-container .modal-footer .add-btn, body.green .user-dropdown.open ul {
+	background: #469159 !important;
+}
+/* background hover active styles */
+body.green .btn-info:hover, body.green .btn-primary:hover, body.green .btn-default:hover, body.green .profile-buttons .sharepic a:hover, body.green .profile-buttons .fblogin a:hover, body.green .ban-post a:hover, body.green #timelineBackground, body.green .crop-design-main a:hover, body.green .events-page .fc-event:hover, body.green .group-container .add-btn:hover, body.green .group-search .button:hover, body.green .model-container .modal-footer .add-btn:hover, body.green .img-container .choose-photo a:hover {
+	background: #00a329 !important;
+}
+/* border css */
+body.green .main-content .widgettitle, body.green .members-search .button, body.green .btn-info, body.green .box-body .btn-primary, body.green .jFiler-input-choose-btn.green:hover, body.green .latestAct-widget .submit-button:hover, body.green .box-body .nav.nav-pills.nav-stacked > li.active > a, body.green .box-body .nav.nav-pills.nav-stacked > li.active > a:hover, body.green .jFiler-input-choose-btn.blue:hover, body.green .events-page .ui-state-default, body.green .events-page .ui-widget-content .ui-state-default, body.green .events-page .ui-widget-header .ui-state-default, body.green .showin:hover, body.green h5.educational-heading {
+	border-color: #469159 !important;
+}
+/* border hover css */
+body.green .btn-info:hover, body.green .btn-info, body.green .search-image-container .showin:hover, body.green .search-image-container .showin:hover .search-img {
+	border-color: #00a329;
+}
+/* color css */
+body.green a, body.green .school-news .postings a, body.green .activity-list .list-group-item.load-more a, body.green .login-container #helpBlock, body.green .loader-icon i, body.green .activity-list .list-group-item .loader-btn, body.green .navbar-default .navbar-nav .loader-btn i, body.green #closemap, body.green #connection_details table tr td span, body.green .isedit-setting .dropdown-menu li a, body.green .name-color, body.green .pagination > li > a, body.green h5.educational-heading, body.green .jquery-comments .highlight-font-bold, body.green .comments-modal .modal-header span {
+	color: #469159;
+}
+/* color hover css */
+body.green a:hover, body.green .school-news .postings a:hover, body.green .activity-list .list-group-item.load-more a:hover, body.green #closemap:hover, body.green .isedit-setting .dropdown-menu li a:hover, body.green .pagination > li > a:hover {
+	color: #00a329;
+}
+/* purple theme styles */
+/* backgound css */
+body.purple .btn-info, body.purple .navbar-default, body.purple .ban-post a, body.purple .member-count:before, body.purple .notifi-count .badge, body.purple .latestAct-widget .widget-heading, body.purple .members-directory .members-count, body.purple .tabbing-container .nav-pills > li.active, body.purple .tabbing-container .nav-pills > li.active, body.purple .tabbing-container .nav-pills > li.active, body.purple .tabbing-container .nav-pills li:hover, body.purple .activity-content .btn-primary.active, body.purple .activity-content .btn-primary:active, body.purple .activity-content .open > .dropdown-toggle.btn-primary, body.purple .members-search .button, body.purple .events-page .ui-state-default, body.purple .events-page .ui-widget-content .ui-state-default, body.purple .events-page .ui-widget-header .ui-state-default, body.purple .events-page .ui-widget-header, body.purple .box-title, body.purple .label-info, body.purple .contact-form button, body.purple .profile-container .nav-pills > li.active > a, body.purple .profile-buttons .sharepic a, body.purple .profile-buttons .fblogin a, body.purple .jFiler-input-choose-btn.purple:hover, body.purple .latestAct-widget .submit-button:hover, body.purple .btn-primary, body.purple .jFiler-input-choose-btn.blue:hover, body.purple .showin:hover:before, body.purple .crop-design-main a, body.purple .select2-results .select2-highlighted, body.purple .events-page .fc-event, body.purple .group-container .add-btn, body.purple .group-search .button, body.purple .model-container .modal-footer .add-btn, body.purple .user-dropdown.open ul {
+	background: #c762cb !important;
+}
+/* background hover active styles */
+body.purple .btn-info:hover, body.purple .btn-primary:hover, body.purple .btn-default:hover, body.purple .profile-buttons .sharepic a:hover, body.purple .profile-buttons .fblogin a:hover, body.purple .ban-post a:hover, body.purple #timelineBackground, body.purple .crop-design-main a:hover, body.purple .events-page .fc-event:hover, body.purple .group-container .add-btn:hover, body.purple .model-container .modal-footer .add-btn:hover, body.purple .img-container .choose-photo a:hover {
+	background: #f500ff!important;
+}
+/* border css */
+body.purple .main-content .widgettitle, body.purple .members-search .button, body.purple .btn-info, body.purple .box-body .btn-primary, body.purple .jFiler-input-choose-btn.purple:hover, body.purple .latestAct-widget .submit-button:hover, body.purple .box-body .nav.nav-pills.nav-stacked > li.active > a, body.purple .box-body .nav.nav-pills.nav-stacked > li.active > a:hover, body.purple .jFiler-input-choose-btn.blue:hover, body.purple .events-page .ui-state-default, body.purple .events-page .ui-widget-content .ui-state-default, body.purple .events-page .ui-widget-header .ui-state-default, body.purple .showin:hover, body.purple .group-search .button:hover {
+	border-color: #c762cb !important;
+}
+/* border hover css */
+body.purple .btn-info:hover, body.purple .btn-info, body.purple .search-image-container .showin:hover, body.purple .search-image-container .showin:hover .search-img {
+	border-color: #f500ff;
+}
+/* color css */
+body.purple a, body.purple .school-news .postings a, body.purple .activity-list .list-group-item.load-more a, body.purple .login-container #helpBlock, body.purple .loader-icon i, body.purple .activity-list .list-group-item .loader-btn, body.purple .navbar-default .navbar-nav .loader-btn i, body.purple #closemap, body.purple #connection_details table tr td span, body.purple .isedit-setting .dropdown-menu li a, body.purple .name-color, body.purple .pagination > li > a, body.purple .jquery-comments .highlight-font-bold, body.purple .comments-modal .modal-header span {
+	color: #c762cb;
+}
+/* color hover css */
+body.purple a:hover, body.purple .school-news .postings a:hover, body.purple .activity-list .list-group-item.load-more a:hover, body.purple #closemap:hover, body.purple .isedit-setting .dropdown-menu li a:hover, body.purple .pagination > li > a:hover {
+	color: #f500ff;
+}
